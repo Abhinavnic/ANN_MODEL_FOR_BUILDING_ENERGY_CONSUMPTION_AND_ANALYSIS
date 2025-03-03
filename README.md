@@ -33,5 +33,5 @@
 
 ## __4. Contributors:__
 
-   1. Abhinavnic([GitHub Profile]([[https://pages.github.com/](https://github.com/Abhinavnic/)]))
+   1. Abhinavnic([GitHub Profile]([[https://pages.github.com/](https://github.com/Abhinavnic)]))
    
