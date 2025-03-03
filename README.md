@@ -34,4 +34,8 @@
 ## __4. Contributors:__
 
    1. Abhinavnic([GitHub Profile](https://pages.github.com/](https://github.com/Abhinavnic)))
+
+   ## __License:__
+
+   This project is licensed under the MIT License.
    
